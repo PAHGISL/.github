@@ -1,4 +1,4 @@
-# PAHGISL@USYD | Precision Agriculture, Hydrology, and GIS Lab (tentative page)
+# PAHGISL@USYD | Precision Agriculture, Hydrology, and Geoinformation Science Laboratory
 
 [![University of Sydney](https://img.shields.io/badge/University-University%20of%20Sydney-orange)](https://www.sydney.edu.au/science/schools/school-of-life-and-environmental-sciences.html)
 [![Domain](https://img.shields.io/badge/Research-Precision%20Ag%20%7C%20Hydrology%20%7C%20Pedometrics-blue)](https://www.linkedin.com/company/pahgisl/)
