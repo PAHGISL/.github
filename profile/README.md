@@ -43,6 +43,7 @@ Our research relies on a robust stack of spatial data science tools:
 | Repository | Description | Status |
 | :--- | :--- | :--- |
 | **[ubESTARFM](https://github.com/yuyi13/ubESTARFM)** | A variant of a famous spatiotemporal fusion algorithm that locally corrects systematic bias. | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
+| **[OzNet_AOA](https://github.com/yuyi13/OzNet_AOA)** | Assessing the area of applicability of machine learning models for spatial soil moisture prediction in southeastern Australia | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
 
 ---
 
